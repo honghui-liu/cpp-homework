@@ -1,0 +1,1 @@
+(1) in this directory, we can see three pictures of relation between total momentum and Monte Carlo steps under different temperature. From the pictures, we can conclude that at least 10^7 steps are needed for the system to reach a equilibrating state.

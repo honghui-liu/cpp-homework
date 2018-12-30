@@ -1,0 +1,3 @@
+(1) there is already a makefile in this directory, and i have run it to get the ".out" file, you can run this file (./brown.out) and you will get a output.txt file which contains the position of the particle.
+(2)run "make clean", and you can clean all the ".o" file, and "make cleanall" to clean all the ".o" and ".out" file.
+(3)run the "./brown -h " to get the help information, you can change the dafault value  of parameters in command line according to the help info (./brown.out -T 0.5).
